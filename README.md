@@ -1,2 +1,2 @@
-# Apredendo-Bootstrap
+# Aprendendo-Bootstrap
 Conhecimentos iniciais Bootstrap
